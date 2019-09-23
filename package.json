@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_chat_bot",
+  "version": "1.0.0",
+  "description": "Chat Bot avec Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElisaGougerot/NodeJS.git"
+  },
+  "author": "Elisa Gougerot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElisaGougerot/NodeJS/issues"
+  },
+  "homepage": "https://github.com/ElisaGougerot/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
