@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ElisaGougerot/NodeJS#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "curl": "^0.1.4",
+    "express": "^4.17.1",
+    "heroku": "^7.30.0"
   }
 }
